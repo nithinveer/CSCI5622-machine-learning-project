@@ -1,1 +1,234 @@
-{"address_obj": {"street1": "5757 Telegraph Rd", "street2": "", "city": "Commerce", "state": "California", "country": "United States", "postalcode": "90040-1513", "address_string": "5757 Telegraph Rd, Commerce, CA 90040-1513"}, "latitude": "34.0039", "rating": "4.0", "location_id": "76529", "trip_types": [{"name": "business", "value": "419", "localized_name": "Business"}, {"name": "couples", "value": "241", "localized_name": "Couples"}, {"name": "solo", "value": "69", "localized_name": "Solo travel"}, {"name": "family", "value": "364", "localized_name": "Family"}, {"name": "friends", "value": "67", "localized_name": "Friends getaway"}], "reviews": [{"id": "722611314", "lang": "en", "location_id": "76529", "published_date": "2019-10-30T11:30:41-0400", "rating": 5, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r722611314-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review722611314", "trip_type": "Couples", "travel_date": "2019-10", "text": "The hotel was very clean and the employees were awesome. Excellent customer service everybody was so friendly. Great location right next to an big outlet mall and restaurants. And easy access to the...", "user": {"username": "kimberlyfulbright75", "user_location": {"name": null, "id": null}}, "title": "Excellent Hotel"}, {"id": "720742905", "lang": "en", "location_id": "76529", "published_date": "2019-10-23T09:31:00-0400", "rating": 4, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r720742905-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review720742905", "trip_type": "Couples", "travel_date": "2019-10", "text": "Pro: \n1. Close to the freeway, an outlets, and a bunch of restaurants. \n2. The room is spacious and tidy; and the bed is comfortable.\nCon: \n1. Found other people's hair in every shower towel provided...", "user": {"username": "luk3p1", "user_location": {"name": "Collierville, Tennessee", "id": "54964"}}, "title": "Convenient but cleanness needs improvement"}, {"id": "720214655", "lang": "en", "location_id": "76529", "published_date": "2019-10-21T09:49:51-0400", "rating": 5, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r720214655-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review720214655", "trip_type": "Business", "travel_date": "2019-10", "text": "The hotel has a full service bar, restaurant, helpful and friendly staff, and free parking. The room was clean. The outdoor seating area cushions need replacing. The rest of the hotel seemed great...", "user": {"username": "dbrandt007", "user_location": {"name": "Minneapolis, Minnesota", "id": "43323"}}, "title": "Good Stay"}, {"id": "719960015", "lang": "en", "location_id": "76529", "published_date": "2019-10-20T11:55:40-0400", "rating": 4, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r719960015-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review719960015", "trip_type": "Family", "travel_date": "2019-10", "text": "Hotel staff where amazing just rooms seem bit outdated but they where very clean and we where placed by the high way was a bit noisy due to traffic but room smelled moldy no ventilation and beds...", "user": {"username": "David G", "user_location": {"name": null, "id": null}}, "title": "Nice area"}, {"id": "719497587", "lang": "en", "location_id": "76529", "published_date": "2019-10-18T18:30:34-0400", "rating": 5, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r719497587-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review719497587", "trip_type": "Family", "travel_date": "2019-10", "text": "I surprised my sister with this trip and everything was perfect. Before we arrived, on the ride to the hotel. Alexis was already texting asking if we were ok, or needed anything. I asked her was it...", "user": {"username": "Dream L", "user_location": {"name": null, "id": null}}, "title": "My sisters birthday vacation"}], "write_review": "https://www.tripadvisor.com/UserReview-g32240-d76529-m21516-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html", "ancestors": [{"abbrv": null, "level": "City", "name": "Commerce", "location_id": "32240"}, {"abbrv": "CA", "level": "State", "name": "California", "location_id": "28926"}, {"abbrv": null, "level": "Country", "name": "United States", "location_id": "191"}], "longitude": "-118.150604", "hours": null, "percent_recommended": 80, "review_rating_count": {"1": "52", "2": "69", "3": "156", "4": "347", "5": "589"}, "subratings": [{"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif", "name": "rate_location", "value": "4.5", "localized_name": "Location"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif", "name": "rate_sleep", "value": "4.5", "localized_name": "Sleep Quality"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif", "name": "rate_room", "value": "4.0", "localized_name": "Rooms"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif", "name": "rate_service", "value": "4.5", "localized_name": "Service"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif", "name": "rate_value", "value": "4.0", "localized_name": "Value"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif", "name": "rate_cleanliness", "value": "4.5", "localized_name": "Cleanliness"}], "ranking_data": {"ranking_string": "#1 of 7 hotels in Commerce", "ranking_out_of": "7", "geo_location_id": "32240", "ranking": "1", "geo_location_name": "Commerce", "ranking_string_detail": null}, "photo_count": "264", "location_string": "Commerce, California", "web_url": "https://www.tripadvisor.com/Hotel_Review-g32240-d76529-Reviews-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516", "price_level": "$$", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-21516-5.svg", "awards": [{"award_type": "Certificate of Excellence", "year": "2019", "images": {"small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_v2_small-21516-5.jpg", "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-21516-5.jpg"}, "categories": [], "display_name": "Certificate of Excellence 2019"}], "name": "Doubletree by Hilton Hotel Los Angeles - Commerce", "num_reviews": "1213", "category": {"name": "hotel", "localized_name": "Hotel"}, "subcategory": [{"name": "hotel", "localized_name": "Hotel"}], "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g32240-d76529-m21516-Reviews-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html#photos"}
+{
+    "address_obj": {
+        "street1": "5757 Telegraph Rd",
+        "street2": "",
+        "city": "Commerce",
+        "state": "California",
+        "country": "United States",
+        "postalcode": "90040-1513",
+        "address_string": "5757 Telegraph Rd, Commerce, CA 90040-1513"
+    },
+    "latitude": "34.0039",
+    "rating": "4.0",
+    "location_id": "76529",
+    "trip_types": [{
+            "name": "business",
+            "value": "419",
+            "localized_name": "Business"
+        }, {
+            "name": "couples",
+            "value": "241",
+            "localized_name": "Couples"
+        }, {
+            "name": "solo",
+            "value": "69",
+            "localized_name": "Solo travel"
+        }, {
+            "name": "family",
+            "value": "364",
+            "localized_name": "Family"
+        }, {
+            "name": "friends",
+            "value": "67",
+            "localized_name": "Friends getaway"
+        }
+    ],
+    "reviews": [{
+            "id": "722611314",
+            "lang": "en",
+            "location_id": "76529",
+            "published_date": "2019-10-30T11:30:41-0400",
+            "rating": 5,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r722611314-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review722611314",
+            "trip_type": "Couples",
+            "travel_date": "2019-10",
+            "text": "The hotel was very clean and the employees were awesome. Excellent customer service everybody was so friendly. Great location right next to an big outlet mall and restaurants. And easy access to the...",
+            "user": {
+                "username": "kimberlyfulbright75",
+                "user_location": {
+                    "name": null,
+                    "id": null
+                }
+            },
+            "title": "Excellent Hotel"
+        }, {
+            "id": "720742905",
+            "lang": "en",
+            "location_id": "76529",
+            "published_date": "2019-10-23T09:31:00-0400",
+            "rating": 4,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r720742905-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review720742905",
+            "trip_type": "Couples",
+            "travel_date": "2019-10",
+            "text": "Pro: \n1. Close to the freeway, an outlets, and a bunch of restaurants. \n2. The room is spacious and tidy; and the bed is comfortable.\nCon: \n1. Found other people's hair in every shower towel provided...",
+            "user": {
+                "username": "luk3p1",
+                "user_location": {
+                    "name": "Collierville, Tennessee",
+                    "id": "54964"
+                }
+            },
+            "title": "Convenient but cleanness needs improvement"
+        }, {
+            "id": "720214655",
+            "lang": "en",
+            "location_id": "76529",
+            "published_date": "2019-10-21T09:49:51-0400",
+            "rating": 5,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r720214655-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review720214655",
+            "trip_type": "Business",
+            "travel_date": "2019-10",
+            "text": "The hotel has a full service bar, restaurant, helpful and friendly staff, and free parking. The room was clean. The outdoor seating area cushions need replacing. The rest of the hotel seemed great...",
+            "user": {
+                "username": "dbrandt007",
+                "user_location": {
+                    "name": "Minneapolis, Minnesota",
+                    "id": "43323"
+                }
+            },
+            "title": "Good Stay"
+        }, {
+            "id": "719960015",
+            "lang": "en",
+            "location_id": "76529",
+            "published_date": "2019-10-20T11:55:40-0400",
+            "rating": 4,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r719960015-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review719960015",
+            "trip_type": "Family",
+            "travel_date": "2019-10",
+            "text": "Hotel staff where amazing just rooms seem bit outdated but they where very clean and we where placed by the high way was a bit noisy due to traffic but room smelled moldy no ventilation and beds...",
+            "user": {
+                "username": "David G",
+                "user_location": {
+                    "name": null,
+                    "id": null
+                }
+            },
+            "title": "Nice area"
+        }, {
+            "id": "719497587",
+            "lang": "en",
+            "location_id": "76529",
+            "published_date": "2019-10-18T18:30:34-0400",
+            "rating": 5,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g32240-d76529-r719497587-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516#review719497587",
+            "trip_type": "Family",
+            "travel_date": "2019-10",
+            "text": "I surprised my sister with this trip and everything was perfect. Before we arrived, on the ride to the hotel. Alexis was already texting asking if we were ok, or needed anything. I asked her was it...",
+            "user": {
+                "username": "Dream L",
+                "user_location": {
+                    "name": null,
+                    "id": null
+                }
+            },
+            "title": "My sisters birthday vacation"
+        }
+    ],
+    "write_review": "https://www.tripadvisor.com/UserReview-g32240-d76529-m21516-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html",
+    "ancestors": [{
+            "abbrv": null,
+            "level": "City",
+            "name": "Commerce",
+            "location_id": "32240"
+        }, {
+            "abbrv": "CA",
+            "level": "State",
+            "name": "California",
+            "location_id": "28926"
+        }, {
+            "abbrv": null,
+            "level": "Country",
+            "name": "United States",
+            "location_id": "191"
+        }
+    ],
+    "longitude": "-118.150604",
+    "hours": null,
+    "percent_recommended": 80,
+    "review_rating_count": {
+        "1": "52",
+        "2": "69",
+        "3": "156",
+        "4": "347",
+        "5": "589"
+    },
+    "subratings": [{
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif",
+            "name": "rate_location",
+            "value": "4.5",
+            "localized_name": "Location"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif",
+            "name": "rate_sleep",
+            "value": "4.5",
+            "localized_name": "Sleep Quality"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif",
+            "name": "rate_room",
+            "value": "4.0",
+            "localized_name": "Rooms"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif",
+            "name": "rate_service",
+            "value": "4.5",
+            "localized_name": "Service"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif",
+            "name": "rate_value",
+            "value": "4.0",
+            "localized_name": "Value"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif",
+            "name": "rate_cleanliness",
+            "value": "4.5",
+            "localized_name": "Cleanliness"
+        }
+    ],
+    "ranking_data": {
+        "ranking_string": "#1 of 7 hotels in Commerce",
+        "ranking_out_of": "7",
+        "geo_location_id": "32240",
+        "ranking": "1",
+        "geo_location_name": "Commerce",
+        "ranking_string_detail": null
+    },
+    "photo_count": "264",
+    "location_string": "Commerce, California",
+    "web_url": "https://www.tripadvisor.com/Hotel_Review-g32240-d76529-Reviews-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html?m=21516",
+    "price_level": "$$",
+    "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-21516-5.svg",
+    "awards": [{
+            "award_type": "Certificate of Excellence",
+            "year": "2019",
+            "images": {
+                "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_v2_small-21516-5.jpg",
+                "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-21516-5.jpg"
+            },
+            "categories": [],
+            "display_name": "Certificate of Excellence 2019"
+        }
+    ],
+    "name": "Doubletree by Hilton Hotel Los Angeles - Commerce",
+    "num_reviews": "1213",
+    "category": {
+        "name": "hotel",
+        "localized_name": "Hotel"
+    },
+    "subcategory": [{
+            "name": "hotel",
+            "localized_name": "Hotel"
+        }
+    ],
+    "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g32240-d76529-m21516-Reviews-Doubletree_by_Hilton_Hotel_Los_Angeles_Commerce-Commerce_California.html#photos"
+}

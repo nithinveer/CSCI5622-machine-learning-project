@@ -1,1 +1,234 @@
-{"address_obj": {"street1": "640 E Park Blvd", "street2": "", "city": "Plano", "state": "Texas", "country": "United States", "postalcode": "75074-5430", "address_string": "640 E Park Blvd, Plano, TX 75074-5430"}, "latitude": "33.02809", "rating": "4.0", "location_id": "73268", "trip_types": [{"name": "business", "value": "112", "localized_name": "Business"}, {"name": "couples", "value": "104", "localized_name": "Couples"}, {"name": "solo", "value": "51", "localized_name": "Solo travel"}, {"name": "family", "value": "194", "localized_name": "Family"}, {"name": "friends", "value": "35", "localized_name": "Friends getaway"}], "reviews": [{"id": "722468981", "lang": "en", "location_id": "73268", "published_date": "2019-10-29T22:47:55-0400", "rating": 4, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r722468981-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review722468981", "trip_type": "Couples", "travel_date": "2019-10", "text": "Everything was clean from the lobby to the room. The room was quiet. We heard no noise from a joining rooms, the hallway, or from outside. It is located in a good area of town. The only downside...", "user": {"username": "Gajones54", "user_location": {"name": "Burneyville, Oklahoma", "id": "51231"}}, "title": "Well maintained hotel"}, {"id": "722047573", "lang": "en", "location_id": "73268", "published_date": "2019-10-28T07:45:31-0400", "rating": 5, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r722047573-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review722047573", "trip_type": "Business", "travel_date": "2019-10", "text": "Been staying here for 25 weeks and always have been well treated. The breakfast here daily is excellent and the employees are super\nI would highly recommend this hotel to business travelers. Easy...", "user": {"username": "matthew893", "user_location": {"name": "Little Rock, Arkansas", "id": null}}, "title": "Always Accommodating"}, {"id": "718639085", "lang": "en", "location_id": "73268", "published_date": "2019-10-15T11:13:47-0400", "rating": 3, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r718639085-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review718639085", "trip_type": "Family", "travel_date": "2019-10", "text": "An older hotel but reasonably comfortable and a lot of space! It really could have used some cleaning. Breakfast was pretty good. Location is sort of out of the way but not too far from highways so...", "user": {"username": "Kerrin G", "user_location": {"name": null, "id": null}}, "title": "Needs Updating and Cleaning"}, {"id": "716327727", "lang": "en", "location_id": "73268", "published_date": "2019-10-08T07:06:24-0400", "rating": 5, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r716327727-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review716327727", "trip_type": null, "travel_date": "2019-10", "text": "We stayed at this hotel for 4 nights - it was extremely clean, friendly and even better excellent value. Lovely buffet breakfast includeded.\nEasy access to interstate but quiet, free safe...", "user": {"username": "Kaiser148", "user_location": {"name": null, "id": null}}, "title": "Surpassed all expectations"}, {"id": "716320491", "lang": "en", "location_id": "73268", "published_date": "2019-10-08T06:36:06-0400", "rating": 3, "helpful_votes": "0", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-21516-5.svg", "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r716320491-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review716320491", "trip_type": "Friends getaway", "travel_date": "2019-10", "text": "While the room was large it really needs to be updated and cleaned. Wallpaper in bathroom is coming off, stains on curtains, someone else\u2019s hair on the hair dryer. Also my room was not cleaned and I...", "user": {"username": "klgoodspeed127", "user_location": {"name": null, "id": null}}, "title": "Older Hotel"}], "write_review": "https://www.tripadvisor.com/UserReview-g56463-d73268-m21516-Magnuson_Hotel_Park_Suites-Plano_Texas.html", "ancestors": [{"abbrv": null, "level": "City", "name": "Plano", "location_id": "56463"}, {"abbrv": "TX", "level": "State", "name": "Texas", "location_id": "28964"}, {"abbrv": null, "level": "Country", "name": "United States", "location_id": "191"}], "longitude": "-96.70633", "hours": null, "percent_recommended": 69, "review_rating_count": {"1": "20", "2": "21", "3": "62", "4": "165", "5": "240"}, "subratings": [{"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif", "name": "rate_location", "value": "4.5", "localized_name": "Location"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif", "name": "rate_sleep", "value": "4.0", "localized_name": "Sleep Quality"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif", "name": "rate_room", "value": "4.0", "localized_name": "Rooms"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif", "name": "rate_service", "value": "4.5", "localized_name": "Service"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif", "name": "rate_value", "value": "4.5", "localized_name": "Value"}, {"rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif", "name": "rate_cleanliness", "value": "4.0", "localized_name": "Cleanliness"}], "ranking_data": {"ranking_string": "#14 of 53 hotels in Plano", "ranking_out_of": "53", "geo_location_id": "56463", "ranking": "14", "geo_location_name": "Plano", "ranking_string_detail": null}, "photo_count": "149", "location_string": "Plano, Texas", "web_url": "https://www.tripadvisor.com/Hotel_Review-g56463-d73268-Reviews-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516", "price_level": "$", "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-21516-5.svg", "awards": [{"award_type": "Certificate of Excellence", "year": "2019", "images": {"small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_v2_small-21516-5.jpg", "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-21516-5.jpg"}, "categories": [], "display_name": "Certificate of Excellence 2019"}], "name": "Magnuson Hotel Park Suites", "num_reviews": "508", "category": {"name": "hotel", "localized_name": "Hotel"}, "subcategory": [{"name": "hotel", "localized_name": "Hotel"}], "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g56463-d73268-m21516-Reviews-Magnuson_Hotel_Park_Suites-Plano_Texas.html#photos"}
+{
+    "address_obj": {
+        "street1": "640 E Park Blvd",
+        "street2": "",
+        "city": "Plano",
+        "state": "Texas",
+        "country": "United States",
+        "postalcode": "75074-5430",
+        "address_string": "640 E Park Blvd, Plano, TX 75074-5430"
+    },
+    "latitude": "33.02809",
+    "rating": "4.0",
+    "location_id": "73268",
+    "trip_types": [{
+            "name": "business",
+            "value": "112",
+            "localized_name": "Business"
+        }, {
+            "name": "couples",
+            "value": "104",
+            "localized_name": "Couples"
+        }, {
+            "name": "solo",
+            "value": "51",
+            "localized_name": "Solo travel"
+        }, {
+            "name": "family",
+            "value": "194",
+            "localized_name": "Family"
+        }, {
+            "name": "friends",
+            "value": "35",
+            "localized_name": "Friends getaway"
+        }
+    ],
+    "reviews": [{
+            "id": "722468981",
+            "lang": "en",
+            "location_id": "73268",
+            "published_date": "2019-10-29T22:47:55-0400",
+            "rating": 4,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r722468981-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review722468981",
+            "trip_type": "Couples",
+            "travel_date": "2019-10",
+            "text": "Everything was clean from the lobby to the room. The room was quiet. We heard no noise from a joining rooms, the hallway, or from outside. It is located in a good area of town. The only downside...",
+            "user": {
+                "username": "Gajones54",
+                "user_location": {
+                    "name": "Burneyville, Oklahoma",
+                    "id": "51231"
+                }
+            },
+            "title": "Well maintained hotel"
+        }, {
+            "id": "722047573",
+            "lang": "en",
+            "location_id": "73268",
+            "published_date": "2019-10-28T07:45:31-0400",
+            "rating": 5,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r722047573-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review722047573",
+            "trip_type": "Business",
+            "travel_date": "2019-10",
+            "text": "Been staying here for 25 weeks and always have been well treated. The breakfast here daily is excellent and the employees are super\nI would highly recommend this hotel to business travelers. Easy...",
+            "user": {
+                "username": "matthew893",
+                "user_location": {
+                    "name": "Little Rock, Arkansas",
+                    "id": null
+                }
+            },
+            "title": "Always Accommodating"
+        }, {
+            "id": "718639085",
+            "lang": "en",
+            "location_id": "73268",
+            "published_date": "2019-10-15T11:13:47-0400",
+            "rating": 3,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r718639085-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review718639085",
+            "trip_type": "Family",
+            "travel_date": "2019-10",
+            "text": "An older hotel but reasonably comfortable and a lot of space! It really could have used some cleaning. Breakfast was pretty good. Location is sort of out of the way but not too far from highways so...",
+            "user": {
+                "username": "Kerrin G",
+                "user_location": {
+                    "name": null,
+                    "id": null
+                }
+            },
+            "title": "Needs Updating and Cleaning"
+        }, {
+            "id": "716327727",
+            "lang": "en",
+            "location_id": "73268",
+            "published_date": "2019-10-08T07:06:24-0400",
+            "rating": 5,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r716327727-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review716327727",
+            "trip_type": null,
+            "travel_date": "2019-10",
+            "text": "We stayed at this hotel for 4 nights - it was extremely clean, friendly and even better excellent value. Lovely buffet breakfast includeded.\nEasy access to interstate but quiet, free safe...",
+            "user": {
+                "username": "Kaiser148",
+                "user_location": {
+                    "name": null,
+                    "id": null
+                }
+            },
+            "title": "Surpassed all expectations"
+        }, {
+            "id": "716320491",
+            "lang": "en",
+            "location_id": "73268",
+            "published_date": "2019-10-08T06:36:06-0400",
+            "rating": 3,
+            "helpful_votes": "0",
+            "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-21516-5.svg",
+            "url": "https://www.tripadvisor.com/ShowUserReviews-g56463-d73268-r716320491-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516#review716320491",
+            "trip_type": "Friends getaway",
+            "travel_date": "2019-10",
+            "text": "While the room was large it really needs to be updated and cleaned. Wallpaper in bathroom is coming off, stains on curtains, someone else\u2019s hair on the hair dryer. Also my room was not cleaned and I...",
+            "user": {
+                "username": "klgoodspeed127",
+                "user_location": {
+                    "name": null,
+                    "id": null
+                }
+            },
+            "title": "Older Hotel"
+        }
+    ],
+    "write_review": "https://www.tripadvisor.com/UserReview-g56463-d73268-m21516-Magnuson_Hotel_Park_Suites-Plano_Texas.html",
+    "ancestors": [{
+            "abbrv": null,
+            "level": "City",
+            "name": "Plano",
+            "location_id": "56463"
+        }, {
+            "abbrv": "TX",
+            "level": "State",
+            "name": "Texas",
+            "location_id": "28964"
+        }, {
+            "abbrv": null,
+            "level": "Country",
+            "name": "United States",
+            "location_id": "191"
+        }
+    ],
+    "longitude": "-96.70633",
+    "hours": null,
+    "percent_recommended": 69,
+    "review_rating_count": {
+        "1": "20",
+        "2": "21",
+        "3": "62",
+        "4": "165",
+        "5": "240"
+    },
+    "subratings": [{
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif",
+            "name": "rate_location",
+            "value": "4.5",
+            "localized_name": "Location"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif",
+            "name": "rate_sleep",
+            "value": "4.0",
+            "localized_name": "Sleep Quality"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif",
+            "name": "rate_room",
+            "value": "4.0",
+            "localized_name": "Rooms"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif",
+            "name": "rate_service",
+            "value": "4.5",
+            "localized_name": "Service"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.gif",
+            "name": "rate_value",
+            "value": "4.5",
+            "localized_name": "Value"
+        }, {
+            "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.gif",
+            "name": "rate_cleanliness",
+            "value": "4.0",
+            "localized_name": "Cleanliness"
+        }
+    ],
+    "ranking_data": {
+        "ranking_string": "#14 of 53 hotels in Plano",
+        "ranking_out_of": "53",
+        "geo_location_id": "56463",
+        "ranking": "14",
+        "geo_location_name": "Plano",
+        "ranking_string_detail": null
+    },
+    "photo_count": "149",
+    "location_string": "Plano, Texas",
+    "web_url": "https://www.tripadvisor.com/Hotel_Review-g56463-d73268-Reviews-Magnuson_Hotel_Park_Suites-Plano_Texas.html?m=21516",
+    "price_level": "$",
+    "rating_image_url": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-21516-5.svg",
+    "awards": [{
+            "award_type": "Certificate of Excellence",
+            "year": "2019",
+            "images": {
+                "small": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_v2_small-21516-5.jpg",
+                "large": "http://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-21516-5.jpg"
+            },
+            "categories": [],
+            "display_name": "Certificate of Excellence 2019"
+        }
+    ],
+    "name": "Magnuson Hotel Park Suites",
+    "num_reviews": "508",
+    "category": {
+        "name": "hotel",
+        "localized_name": "Hotel"
+    },
+    "subcategory": [{
+            "name": "hotel",
+            "localized_name": "Hotel"
+        }
+    ],
+    "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g56463-d73268-m21516-Reviews-Magnuson_Hotel_Park_Suites-Plano_Texas.html#photos"
+}
