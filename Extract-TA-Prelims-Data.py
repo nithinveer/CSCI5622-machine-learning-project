@@ -42,7 +42,7 @@ for each_data in data:
             review_count += int(ta_raw_info['review_rating_count']['5'])
         review_count = (floor(review_count/5))
     reviews_obj = []
-    review_count = 5
+    # review_count = 5
     for i in range(1,review_count+1):
         review_page_url = review_url.replace('ShowUserReviews','Hotel_Review') + '-Reviews-or' + str((i-1)*5)
         print(review_page_url)
@@ -81,11 +81,24 @@ for each_data in data:
                 ind_review['page_url'] =review_page_url
                 ind_review['sub_review'] = {}
                 ind_review['travel_purpose'] = ''
+
                 try :
                     http1 = urllib3.PoolManager()
                     res2 = http1.request("GET", review_page_url)
                     soup1 = BeautifulSoup(res2.data,features="html.parser")
                     x3 = soup1.find("div", {"class": "rating-list"})
+                    e1 = soup1.select(".ui_bubble_rating")
+                    # print((e1))
+                    e3 = []
+                    e3.append(e1[0])
+                    key_list = []
+                    # for v_4 in x3:
+                    #    print(v_4.text)
+                    for v_4 in e3:
+                        # print(v_4)
+                        ind_review['rating'] = (class_to_rating[v_4["class"][1]])
+                    # exit(0)
+
                     travel_purpose = ''
                     try :
                         x33 = x3.find("div", {"class": "recommend-titleInline"})
