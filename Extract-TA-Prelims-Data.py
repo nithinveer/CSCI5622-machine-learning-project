@@ -133,7 +133,7 @@ for each_data in data:
         json.dump(ta_raw_info, json_file)
     with open('TA-Data-Actual/'+str(ta_id)+'.json', 'w') as json_file:
         json.dump(reviews_obj, json_file)
-    print(reviews_obj)
-    exit(0)
+    # print(reviews_obj)
+    # exit(0)
 
 print(len(data))
