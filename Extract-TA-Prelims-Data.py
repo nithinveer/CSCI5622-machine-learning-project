@@ -20,7 +20,7 @@ class_to_rating = {
 
 ta_url = 'http://api.tripadvisor.com/api/partner/2.0/location/{}?key=61F1644563794354A518190F4505BA38'
 
-with open('GiataCode-MHId-TAId-Copy.json') as f:
+with open('GiataCode-MHId-TAId.json') as f:
   data = json.load(f)
 for each_data in data:
     ta_id = each_data['tripAdvisorId']
