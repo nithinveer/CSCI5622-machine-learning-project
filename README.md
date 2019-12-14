@@ -7,3 +7,7 @@ The popularity of a hotel is not only based on the brand but also the user revie
 feature_extraction_and_feature_selection.py <br/>
 Extract-TA-Prelims-Data.py <br/>
 import_to_es.py <br/>
+
+#	Conclusion:
+As mentioned, we have made an attempt to figure out the feature importance by above approach. This approach yielded good results for a hotel where the diversity on features are good. For a hotel reviews which lacks diversity of features didn’t yield a meaning full result. We could have made some improvements using some prior tagging or labelling the features that would be under consideration.  This whole project would have been dealt with multiple possible approaches and above is one of the approaches. This approach is more of experimental and learning strategy by implementing some of the machine learning algorithms described in the class.
+
