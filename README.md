@@ -5,3 +5,5 @@ The popularity of a hotel is not only based on the brand but also the user revie
 
 # Main script files 
 feature_extraction_and_feature_selection.py
+Extract-TA-Prelims-Data.py 
+import_to_es.py
